@@ -1,4 +1,4 @@
-module tm-db-go-datastore
+module github.com/bdware/tm-db-go-datastore
 
 go 1.15
 
